@@ -1,7 +1,7 @@
 # node-rest-postgres
 ## Very simple REST api implemented with Node.js, Express and PostgresQL.
 
-Use the Express and pg modules in node.
+Use the express, pg and body-parser modules in node.
 
 The database is a single table, "item", with three fields, "id" (auto generated), "name" and "notes".
 
